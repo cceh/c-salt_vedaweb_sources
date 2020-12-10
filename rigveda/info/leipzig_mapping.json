@@ -4,232 +4,192 @@
       "person",
       "first person"
    ],
-   "1.": [
-      "1",
-      "person",
-      "first person"
-   ],
-   "2.": [
+   "2": [
       "2",
       "person",
       "second person"
    ],
-   "3.": [
+   "3": [
       "3",
       "person",
       "third person"
    ],
-   "Abl.": [
+   "abl": [
       "ABL",
       "case",
       "ablative"
    ],
-   "akk.": [
+   "akk": [
       "ACC",
       "case",
       "accusative"
    ],
-   "Akk.": [
-      "ACC",
-      "case",
-      "accusative"
-   ],
-   "akt.": [
+   "akt": [
       "ACT",
       "voice",
       "actor"
    ],
-   "Akt.": [
-      "ACT",
-      "voice",
-      "actor"
-   ],
-   "Aor.": [
+   "aor": [
       "AOR",
       "tense",
       "aorist"
    ],
-   "aor.": [
-      "AOR",
-      "tense",
-      "aorist"
-   ],
-   "Kond.": [
+   "kond": [
       "COND",
       "tense",
       "conditional"
    ],
-   "Dat.": [
+   "dat": [
       "DAT",
       "case",
       "dative"
    ],
-   "Du.": [
+   "du": [
       "DU",
       "number",
       "dual"
    ],
-   "f.": [
+   "f": [
       "F",
       "gender",
       "feminine"
    ],
-   "Fut.": [
+   "fut": [
       "FUT",
       "tense",
       "future"
    ],
-   "Gen.": [
+   "gen": [
       "GEN",
       "case",
       "genitive"
    ],
-   "Ipv.": [
+   "ipv": [
       "IMP",
       "mood",
       "imperative"
    ],
-   "ipv.": [
-      "IMP",
-      "mood",
-      "imperative"
-   ],
-   "Ind.": [
+   "ind": [
       "IND",
       "mood",
       "indicative"
    ],
-   "Instr.": [
+   "instr": [
       "INS",
       "case",
       "instrumental"
    ],
-   "Imperf.": [
+   "imperf": [
       "IPRF",
       "tense",
       "imperfect"
    ],
-   "Lok.": [
+   "lok": [
       "LOC",
       "case",
       "locative"
    ],
-   "m.": [
+   "m": [
       "M",
       "gender",
       "mascuiline"
    ],
-   "med.": [
+   "med": [
       "MED",
       "voice",
       "middle voice"
    ],
-   "n.": [
+   "n": [
       "N",
       "gender",
       "neuter"
    ],
-   "Nom.": [
+   "nom": [
       "NOM",
       "case",
       "nominative"
    ],
-   "Opt.": [
+   "opt": [
       "OPT",
       "mood",
       "optative"
    ],
-   "pass.": [
+   "pass": [
       "PASS",
       "voice",
       "passive voice"
    ],
-   "Pl.": [
+   "pl": [
       "PL",
       "number",
       "plural"
    ],
-   "Pl...": [
-      "PL",
-      "number",
-      "plural"
-   ],
-   "pl.": [
-      "PL",
-      "number",
-      "plural"
-   ],
-   "Pluperf.": [
+   "pluperf": [
       "PLUPRF",
       "tense",
       "past perfect"
    ],
-   "Perf.": [
+   "perf": [
       "PRF",
       "tense",
       "perfect"
    ],
-   "Präs.": [
+   "präs": [
       "PRS",
       "tense",
       "present"
    ],
-   "Konj.": [
+   "konj": [
       "SBJV",
       "mood",
       "subjunctive"
    ],
-   "sg.": [
+   "sg": [
       "SG",
       "number",
       "singular"
    ],
-   "Sg.": [
-      "SG",
-      "number",
-      "singular"
-   ],
-   "Vok.": [
+   "vok": [
       "VOC",
       "case",
       "vocative"
    ],
-   "Inj.": [
+   "inj": [
       "INJ",
       "mood",
       "injuctive"
    ],
-   "Abs.": [
+   "abs": [
       "CVB",
       "non-finite",
       "converb"
    ],
-   "Inf.": [
+   "inf": [
       "INF",
       "non-finite",
       "infinitive"
    ],
-   "Ptz.": [
+   "ptz": [
       "PTCP",
       "non-finite",
       "participle"
    ],
-   "ta-Ptz.": [
+   "ta-ptz": [
       "PPP",
       "non-finite",
       "ta participle perfective passive"
    ],
-   "na-Ptz.": [
+   "na-ptz": [
       "PPP",
       "non-finite",
       "na participle perfective passive"
    ],
-   "Des.": [
+   "des": [
       "DES",
       "mood",
       "desiderative"
    ],
-   "Prek.": [
+   "prek": [
       "PREC",
       "mood",
       "precative"
